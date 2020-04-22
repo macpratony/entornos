@@ -1,0 +1,5 @@
+package principal;
+
+public class VentanaJose {
+	//Esta clase la ha creado Jose desde una branch llamada "jose"
+}
